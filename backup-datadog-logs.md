@@ -12,10 +12,10 @@
 
 功能概要
 
-# 将 log 从 Datadog 备份到 Azure Storage 中
-# 以 host 和 day 分别存储 log
-# 当客户请求某个月的 log 时，提供可下载的 zip
-# log 要求时按时间顺序排序，并且无重复
+* 将 log 从 Datadog 备份到 Azure Storage 中
+* 以 host 和 day 分别存储 log
+* 当客户请求某个月的 log 时，提供可下载的 zip
+* log 要求时按时间顺序排序，并且无重复
 
 要求：
 
